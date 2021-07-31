@@ -4,8 +4,8 @@ Gcode generator for winding machine running Gcode or GRBL
 
 generatore di Gcode per bobinatrice 
 
-autore : Minutello Manuel
-data   : 28/07/2021
+autore : Minutello Manuel,
+data   : 28/07/2021,
 rev    : 1.2
 
 le istruzioni per l' utilizzo sono nel file istruzioni.pde, il software sa il linguaggio Processing con omonimo IDE
