@@ -10,5 +10,5 @@ rev    : 1.2
 
 le istruzioni per l' utilizzo sono nel file istruzioni.pde, il software sa il linguaggio Processing con omonimo IDE
 
-per utilizare il codice scaricare l' ambiende Processing, salvare tutti i file in una cartella chiamata generatore_Gcode e aprire il procetto
+per utilizare il codice scaricare l' ambiende Processing, salvare tutti i file in una cartella chiamata generatore_Gcode e aprire il progetto
 una vota seguite le istruzioni il codice viene avviato con il tasto play in alto a sx
